@@ -1,0 +1,12 @@
+{
+  "effective_parameters": {
+    "num_leaves": 58,
+    "max_depth": 10,
+    "lambda_l2": 3.6599697090570253,
+    "lambda_l1": 2.993292420985183,
+    "min_data_in_leaf": 72
+  },
+  "boosting_rounds": 40,
+  "seed": 42,
+  "max_rounds": 300
+}
